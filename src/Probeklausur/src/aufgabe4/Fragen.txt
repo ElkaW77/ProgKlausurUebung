@@ -1,0 +1,15 @@
+Frage 1) Tritt eine NullPointerException zur Laufzeit oder zur Kompilierzeit auf? (1 Punkt) 
+Antwort 1:
+
+Frage 2) Ein Array beliebiger Länge soll elementweise auf dem Bildschirm ausgegeben werden. 
+Welche der Kontrollstrukturen if, while, for, switch eignen sich generell für diese Aufgabe? (2 Punkte) 
+Antwort 2:
+
+Frage 3) Welcher der Datentypen int, double, String, boolean ist kein primitiver Datentyp? (1 Punkt) 
+Antwort 3:
+
+Frage 4) Wie viele Rückgabewerte haben Methoden in Java? (1 Punkt) 
+Antwort 4:
+
+Frage 5) Kann die Länge eines Arrays später noch verändert werden? (1 Punkt)
+Antwort 5:
